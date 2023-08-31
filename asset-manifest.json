@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.79b702c4.css",
+    "main.js": "/static/js/main.961e4d59.js",
+    "static/media/periodictablesong.mp3": "/static/media/periodictablesong.b8c2a4824e0dfeb94a2b.mp3",
+    "index.html": "/index.html",
+    "main.79b702c4.css.map": "/static/css/main.79b702c4.css.map",
+    "main.961e4d59.js.map": "/static/js/main.961e4d59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79b702c4.css",
+    "static/js/main.961e4d59.js"
+  ]
+}
